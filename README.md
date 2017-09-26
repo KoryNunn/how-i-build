@@ -3,7 +3,7 @@ How I build software. For explanation to others, and to remind myself.
 
 # Server
 
-```
+```javascript
 var http = require('http');
 var server = http.createServer( /*...routing logic...*/ );
 server.listen(config.port || 8080);
@@ -16,7 +16,7 @@ server.listen(config.port || 8080);
  - File serving: dion
  - svg -> png server/scaler/cacher: idol
  
-```
+```javascript
 ...
 var SeaLion = require('sea-lion');
 var router = new SeaLion();
