@@ -3,7 +3,7 @@ How I build software. For explanation to others, and to remind myself.
 
 # Synopsis
 
-This is not dogma, all opinions and methods are subject to change based on experiance and evidence. This *is* opinion, since I am a human.
+This is not dogma, all opinions and methods are subject to change based on experience and evidence. This *is* opinion, since I am a human.
 
 AKA: PULL REQUESTS WELCOME! (I might not agree but it will probably create a good discussion :))
 
