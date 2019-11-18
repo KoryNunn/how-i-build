@@ -196,26 +196,26 @@ module.exports = createHandler;
 
 ### Structure/Components
 
-Bindable components: https://www.npmjs.com/package/fastn
-Swipeable tabs: https://www.npmjs.com/package/slabs
-Swipeable menus: https://www.npmjs.com/package/flaps
-Swipeable cards: https://www.npmjs.com/package/swipeout
+- Bindable components: https://www.npmjs.com/package/fastn
+- Swipeable tabs: https://www.npmjs.com/package/slabs
+- Swipeable menus: https://www.npmjs.com/package/flaps
+- Swipeable cards: https://www.npmjs.com/package/swipeout
 
 ### Data
 
-Observable state: https://www.npmjs.com/package/enti
-AJAX requests: https://www.npmjs.com/package/cpjax
+- Observable state: https://www.npmjs.com/package/enti
+- AJAX requests: https://www.npmjs.com/package/cpjax
 
 ### "Routing"
-Handling anchor clicks / push-state: https://www.npmjs.com/package/spath
-Detecting URL change: https://www.npmjs.com/package/on-url-change
+- Handling anchor clicks / push-state: https://www.npmjs.com/package/spath
+- Detecting URL change: https://www.npmjs.com/package/on-url-change
 
 ### Interaction
 
-Scrolling: https://www.npmjs.com/package/scroll-into-view
-Touch interaction: https://www.npmjs.com/package/interact-js
+- Scrolling: https://www.npmjs.com/package/scroll-into-view
+- Touch interaction: https://www.npmjs.com/package/interact-js
 
 ## DOM interaction
 
-Wait for CSS layout: https://www.npmjs.com/package/laidout
-Class manipulation: https://www.npmjs.com/package/classist
+- Wait for CSS layout: https://www.npmjs.com/package/laidout
+- Class manipulation: https://www.npmjs.com/package/classist
